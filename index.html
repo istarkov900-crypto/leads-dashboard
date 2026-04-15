@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lead Finder — База лидов</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  * { -webkit-tap-highlight-color: transparent; }
+  body { font-family: system-ui, -apple-system, sans-serif; }
+  .card { transition: box-shadow .2s; }
+  .card:hover { box-shadow: 0 0 0 1px rgba(255,255,255,.07); }
+  textarea { resize: none; }
+  textarea:focus { outline: none; }
+  .btn-status { transition: all .15s ease; }
+  .btn-status:active { transform: scale(.96); }
+</style>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+
+<!-- HEADER -->
+<div class="sticky top-0 z-20 border-b border-gray-800/60 bg-gray-950/90 backdrop-blur-sm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-wrap items-center gap-3 justify-between">
+    <div>
+      <h1 class="text-base font-bold tracking-tight text-white">Lead Finder</h1>
+      <p class="text-xs text-gray-500">Бизнесы без сайта</p>
+    </div>
+    <div id="stats-bar" class="flex gap-3 flex-wrap text-sm"></div>
+  </div>
+</div>
+
+<!-- TOOLBAR -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-wrap gap-2 items-center">
+  <!-- Status filter tabs -->
+  <div class="flex gap-1.5 flex-wrap" id="filter-tabs">
+    <button onclick="setFilter('all')" data-f="all" class="ftab px-3 py-1.5 rounded-lg text-sm font-medium">Все</button>
+    <button onclick="setFilter('new')" data-f="new" class="ftab px-3 py-1.5 rounded-lg text-sm font-medium">Новые</button>
+    <button onclick="setFilter('called')" data-f="called" class="ftab px-3 py-1.5 rounded-lg text-sm font-medium">Позвонили</button>
+    <button onclick="setFilter('interested')" data-f="interested" class="ftab px-3 py-1.5 rounded-lg text-sm font-medium">Интерес</button>
+    <button onclick="setFilter('rejected')" data-f="rejected" class="ftab px-3 py-1.5 rounded-lg text-sm font-medium">Отказ</button>
+  </div>
+  <!-- Dropdowns -->
+  <div class="flex gap-2 ml-auto flex-wrap">
+    <select id="sel-niche" onchange="render()" class="bg-gray-800 border border-gray-700 text-xs rounded-lg px-3 py-1.5 text-gray-300 cursor-pointer">
+      <option value="">Все ниши</option>
+    </select>
+    <select id="sel-city" onchange="render()" class="bg-gray-800 border border-gray-700 text-xs rounded-lg px-3 py-1.5 text-gray-300 cursor-pointer">
+      <option value="">Все города</option>
+    </select>
+    <button onclick="loadLeads()" class="bg-gray-800 border border-gray-700 text-xs rounded-lg px-3 py-1.5 text-gray-400 hover:text-white hover:bg-gray-700 transition-colors">
+      ↻ Обновить
+    </button>
+  </div>
+</div>
+
+<!-- GRID -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 pb-12">
+  <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-4"></div>
+  <div id="empty" class="hidden text-center py-24 text-gray-600">
+    <div class="text-5xl mb-3">📭</div>
+    <p class="text-base font-medium">Лидов нет</p>
+    <p class="text-sm mt-1">Запусти lead_finder.py — лиды появятся здесь автоматически</p>
+  </div>
+  <div id="loading" class="text-center py-24 text-gray-600 text-sm">Загрузка...</div>
+</div>
+
+<script>
+// ─── Config ───────────────────────────────────────
+const REPO    = 'istarkov900-crypto/leads-dashboard';
+const JSON_URL = `https://raw.githubusercontent.com/${REPO}/main/leads.json?_=${Date.now()}`;
+
+const STATUS = {
+  new:        { label: 'Новый',        cls: 'bg-blue-500/15 text-blue-400 border-blue-500/30' },
+  called:     { label: 'Позвонили',    cls: 'bg-yellow-500/15 text-yellow-400 border-yellow-500/30' },
+  interested: { label: 'Интерес!',     cls: 'bg-green-500/15 text-green-400 border-green-500/30' },
+  rejected:   { label: 'Отказ',        cls: 'bg-gray-500/15 text-gray-500 border-gray-600/30' },
+};
+
+// ─── State ────────────────────────────────────────
+let allLeads = [];
+let currentFilter = 'all';
+// Statuses & notes stored per-phone in localStorage
+const STA_KEY  = 'lf_statuses';
+const NOTE_KEY = 'lf_notes';
+let statuses = JSON.parse(localStorage.getItem(STA_KEY)  || '{}');
+let notes    = JSON.parse(localStorage.getItem(NOTE_KEY) || '{}');
+
+// ─── Load ─────────────────────────────────────────
+async function loadLeads() {
+  try {
+    const res  = await fetch(`https://raw.githubusercontent.com/${REPO}/main/leads.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    allLeads = await res.json();
+    document.getElementById('loading').classList.add('hidden');
+    populateDropdowns();
+    render();
+    updateStats();
+  } catch(e) {
+    document.getElementById('loading').textContent = 'Ошибка загрузки. Обновите страницу.';
+  }
+}
+
+// ─── Dropdowns ────────────────────────────────────
+function populateDropdowns() {
+  const niches = [...new Set(allLeads.map(l => l.niche).filter(Boolean))].sort();
+  const cities  = [...new Set(allLeads.map(l => l.city).filter(Boolean))].sort();
+  const nEl = document.getElementById('sel-niche');
+  const cEl = document.getElementById('sel-city');
+  const nv = nEl.value, cv = cEl.value;
+  nEl.innerHTML = '<option value="">Все ниши</option>' + niches.map(n => `<option>${n}</option>`).join('');
+  cEl.innerHTML = '<option value="">Все города</option>' + cities.map(c => `<option>${c}</option>`).join('');
+  nEl.value = nv; cEl.value = cv;
+}
+
+// ─── Filter tabs ──────────────────────────────────
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.ftab').forEach(btn => {
+    const active = btn.dataset.f === f;
+    btn.className = 'ftab px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ' +
+      (active ? 'bg-white text-gray-900 font-semibold' : 'bg-gray-800/60 text-gray-400 hover:bg-gray-800 hover:text-gray-200');
+  });
+  render();
+}
+
+// ─── Render ───────────────────────────────────────
+function render() {
+  const nicheF = document.getElementById('sel-niche').value;
+  const cityF  = document.getElementById('sel-city').value;
+
+  let leads = allLeads.filter(l => {
+    const s = statuses[l.phone] || 'new';
+    if (currentFilter !== 'all' && s !== currentFilter) return false;
+    if (nicheF && l.niche !== nicheF) return false;
+    if (cityF  && l.city  !== cityF)  return false;
+    return true;
+  });
+
+  const grid  = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+
+  if (leads.length === 0) {
+    grid.innerHTML = '';
+    empty.classList.remove('hidden');
+  } else {
+    empty.classList.add('hidden');
+    grid.innerHTML = leads.map(cardHTML).join('');
+  }
+}
+
+// ─── Card ─────────────────────────────────────────
+function cardHTML(lead) {
+  const phone  = lead.phone || '';
+  const status = statuses[phone] || 'new';
+  const note   = esc(notes[phone] || '');
+  const sc     = STATUS[status] || STATUS.new;
+  const addr   = (lead.address || '').replace(/,?\s*Israel$/i, '');
+  const stars  = lead.rating ? `${'★'.repeat(Math.min(5,Math.round(lead.rating)))} ${lead.rating}` : '';
+  const revTxt = lead.reviews ? `(${lead.reviews} отз.)` : '';
+
+  const statBtns = Object.entries(STATUS).map(([k, v]) => {
+    const active = status === k;
+    return `<button onclick="setStatus('${esc(phone)}','${k}')" class="btn-status text-xs px-2 py-1 rounded border transition-all ${
+      active ? v.cls + ' font-medium' : 'border-gray-700 text-gray-600 hover:border-gray-500 hover:text-gray-400'
+    }">${v.label}</button>`;
+  }).join('');
+
+  return `
+  <div class="card bg-gray-900 border border-gray-800/80 rounded-xl p-4 flex flex-col gap-3">
+
+    <!-- Name + badge -->
+    <div class="flex items-start gap-2 justify-between">
+      <div class="min-w-0 flex-1">
+        <h3 class="font-semibold text-white text-sm leading-snug">${esc(lead.name)}</h3>
+        <div class="flex gap-1 mt-1 flex-wrap">
+          ${lead.niche ? `<span class="text-xs bg-gray-800 text-gray-400 px-2 py-0.5 rounded">${esc(lead.niche)}</span>` : ''}
+          ${lead.city  ? `<span class="text-xs bg-gray-800 text-gray-400 px-2 py-0.5 rounded">${esc(lead.city)}</span>`  : ''}
+        </div>
+      </div>
+      <span class="shrink-0 text-xs px-2 py-0.5 rounded border ${sc.cls}">${sc.label}</span>
+    </div>
+
+    <!-- Phone -->
+    <a href="tel:${esc(phone)}" class="flex items-center gap-2 text-emerald-400 hover:text-emerald-300 transition-colors group">
+      <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round"
+          d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+      </svg>
+      <span class="font-mono font-semibold text-sm group-hover:underline">${esc(phone)}</span>
+    </a>
+
+    <!-- Address -->
+    ${addr ? `<p class="text-xs text-gray-500 leading-relaxed line-clamp-2">${esc(addr)}</p>` : ''}
+
+    <!-- Rating -->
+    ${stars ? `<p class="text-xs text-yellow-500/70">${stars} <span class="text-gray-600">${revTxt}</span></p>` : ''}
+
+    <!-- Status buttons -->
+    <div class="flex gap-1.5 flex-wrap pt-2 border-t border-gray-800">
+      ${statBtns}
+    </div>
+
+    <!-- Notes -->
+    <textarea
+      rows="2"
+      placeholder="Заметки..."
+      onblur="saveNote('${esc(phone)}', this.value)"
+      class="text-xs bg-gray-800/40 border border-gray-700/50 rounded-lg px-3 py-2 text-gray-300 placeholder-gray-700 w-full"
+    >${note}</textarea>
+
+    <p class="text-xs text-gray-700">${lead.added_at || ''}</p>
+  </div>`;
+}
+
+// ─── Actions ──────────────────────────────────────
+function setStatus(phone, s) {
+  statuses[phone] = s;
+  localStorage.setItem(STA_KEY, JSON.stringify(statuses));
+  render();
+  updateStats();
+}
+
+function saveNote(phone, val) {
+  notes[phone] = val;
+  localStorage.setItem(NOTE_KEY, JSON.stringify(notes));
+}
+
+// ─── Stats bar ────────────────────────────────────
+function updateStats() {
+  const total      = allLeads.length;
+  const newC       = allLeads.filter(l => (statuses[l.phone] || 'new') === 'new').length;
+  const calledC    = allLeads.filter(l => (statuses[l.phone] || 'new') === 'called').length;
+  const intC       = allLeads.filter(l => (statuses[l.phone] || 'new') === 'interested').length;
+  document.getElementById('stats-bar').innerHTML =
+    `<span class="text-gray-400">Всего: <b class="text-white">${total}</b></span>
+     <span class="text-blue-400">Новых: <b>${newC}</b></span>
+     <span class="text-yellow-400">Звонков: <b>${calledC}</b></span>
+     <span class="text-emerald-400">Интерес: <b>${intC}</b></span>`;
+}
+
+function esc(s) {
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ─── Init ─────────────────────────────────────────
+setFilter('all');
+loadLeads();
+setInterval(loadLeads, 30000);
+</script>
+</body>
+</html>
