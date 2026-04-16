@@ -16953,7 +16953,27 @@
     "reviews": 201,
     "niche": "Электрики",
     "city": "Иерусалим",
-    "added_at": "2026-04-16 18:35"
+    "added_at": "2026-04-16 18:35",
+    "place_id": "ChIJFXL0XePXAhURhkBINHhIwDo",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4233463330838691974",
+    "enriched": true
   },
   {
     "phone": "052-240-8691",
@@ -16963,7 +16983,27 @@
     "reviews": 0,
     "niche": "Электрики",
     "city": "Иерусалим",
-    "added_at": "2026-04-16 18:35"
+    "added_at": "2026-04-16 18:35",
+    "place_id": "ChIJGXikFqXXAhURD2zqYHspLT0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: 7:00–16:00",
+      "יום שבת: 18:00–0:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4408225220149275663",
+    "enriched": true
   },
   {
     "phone": "050-689-1859",
@@ -16973,7 +17013,27 @@
     "reviews": 103,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:35"
+    "added_at": "2026-04-16 18:35",
+    "place_id": "ChIJQZTadPK3HRURtoxbL-FQgvg",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17906963996470906038",
+    "enriched": true
   },
   {
     "phone": "072-258-7766",
@@ -16983,7 +17043,12 @@
     "reviews": 11,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJh6YuwKW7HRURNzsuEblVyCM",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=2578405040015162167",
+    "enriched": true
   },
   {
     "phone": "054-430-1438",
@@ -16993,7 +17058,12 @@
     "reviews": 1,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJVy80TwC7HRURyNCyUW4FEW4",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=7931126390151368904",
+    "enriched": true
   },
   {
     "phone": "050-786-4123",
@@ -17003,7 +17073,20 @@
     "reviews": 4,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJk1d7BE66HRURkZdB-NrJRUQ",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 7:00–20:00",
+      "יום שני: 7:00–20:00",
+      "יום שלישי: 7:00–20:00",
+      "יום רביעי: 7:00–20:00",
+      "יום חמישי: 7:00–20:00",
+      "יום שישי: 7:00–15:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4919560110277236625",
+    "enriched": true
   },
   {
     "phone": "04-864-4774",
@@ -17013,7 +17096,27 @@
     "reviews": 5,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJIYJyO7W7HRURUiM8pcKANU4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 12:00–20:00",
+      "יום שני: 12:00–20:00",
+      "יום שלישי: 12:00–20:00",
+      "יום רביעי: 12:00–20:00",
+      "יום חמישי: 12:00–20:00",
+      "יום שישי: 12:00–22:00",
+      "יום שבת: 12:00–19:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5635552082208236370",
+    "enriched": true
   },
   {
     "phone": "04-852-4148",
@@ -17023,7 +17126,12 @@
     "reviews": 3,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJlV7Hlsq7HRURsHqtLtaZoQ8",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=1126350527004506800",
+    "enriched": true
   },
   {
     "phone": "04-983-0002",
@@ -17033,7 +17141,27 @@
     "reviews": 87,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJ-1Plrs67HRUR78_ynk_wENI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:00–17:00",
+      "יום שני: 7:00–17:00",
+      "יום שלישי: 7:00–17:00",
+      "יום רביעי: 7:00–17:00",
+      "יום חמישי: 7:00–17:00",
+      "יום שישי: 7:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15136862572352032751",
+    "enriched": true
   },
   {
     "phone": "04-838-0980",
@@ -17043,7 +17171,20 @@
     "reviews": 39,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJ9aBuCKi7HRURWqz245ZO-r8",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–18:00",
+      "יום שני: 8:00–18:00",
+      "יום שלישי: 8:00–18:00",
+      "יום רביעי: 8:00–18:00",
+      "יום חמישי: 8:00–18:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=13833455615398554714",
+    "enriched": true
   },
   {
     "phone": "04-867-0255",
@@ -17053,7 +17194,24 @@
     "reviews": 0,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJ2ZPJPMK7HRURVk5EysEEw-k",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=16844312261664460374",
+    "enriched": true
   },
   {
     "phone": "050-770-7511",
@@ -17063,7 +17221,20 @@
     "reviews": 2,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJyxibRTW6HRURcaSOEE4TyPs",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=18142772324868203633",
+    "enriched": true
   },
   {
     "phone": "077-350-1516",
@@ -17073,7 +17244,19 @@
     "reviews": 0,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJ7Rn1W1i6HRURLa-QzoGOZc4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=14872450032628444973",
+    "enriched": true
   },
   {
     "phone": "054-529-2484",
@@ -17083,7 +17266,25 @@
     "reviews": 1,
     "niche": "Электрики",
     "city": "Хайфа",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJI1xMIdW7HRURo7ajau-km04",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: 9:00–19:00",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 9:00–19:00",
+      "יום שבת: 9:00–19:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5664302304541783715",
+    "enriched": true
   },
   {
     "phone": "072-335-5629",
@@ -17093,7 +17294,24 @@
     "reviews": 16,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJXUlJDXQ2HRURjFQuMa9cGFo",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=6492040770368722060",
+    "enriched": true
   },
   {
     "phone": "072-335-5566",
@@ -17103,7 +17321,24 @@
     "reviews": 9,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJVdmwEgdKHRURru_Uu02c8J4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11452825710080880558",
+    "enriched": true
   },
   {
     "phone": "052-454-5419",
@@ -17113,7 +17348,24 @@
     "reviews": 3,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJlcg0W0E3HRURPe0sPxCwZyU",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2695316485830405437",
+    "enriched": true
   },
   {
     "phone": "052-410-8686",
@@ -17123,7 +17375,23 @@
     "reviews": 1,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJ86wLmmQ2HRUR0bskbNg1XjM",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: 0:00–13:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=3701455147388681169",
+    "enriched": true
   },
   {
     "phone": "055-442-9378",
@@ -17133,7 +17401,27 @@
     "reviews": 0,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJAZDSudxLHRURQOn7YfC8SSQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2614828799287355712",
+    "enriched": true
   },
   {
     "phone": "052-886-3371",
@@ -17143,7 +17431,19 @@
     "reviews": 103,
     "niche": "Электрики",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 18:36"
+    "added_at": "2026-04-16 18:36",
+    "place_id": "ChIJERWOZfpJHRURJOkJV8AiPYE",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=9312637813961386276",
+    "enriched": true
   },
   {
     "phone": "054-393-1719",
