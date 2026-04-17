@@ -26883,7 +26883,23 @@
     "reviews": 28,
     "niche": "Зубные клиники",
     "city": "Иерусалим",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJzRINidYpAxURrE4eE8qtFO8",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:30–17:00",
+      "יום שני: סגור",
+      "יום שלישי: 9:30–17:00",
+      "יום רביעי: 9:30–17:00",
+      "יום חמישי: 9:30–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17227585558014742188",
+    "enriched": true
   },
   {
     "phone": "02-500-4856",
@@ -26893,7 +26909,24 @@
     "reviews": 11,
     "niche": "Зубные клиники",
     "city": "Иерусалим",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJPwbefCTWAhURK2g28q63aNw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: 9:00–19:00",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 9:00–11:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15882146047937898539",
+    "enriched": true
   },
   {
     "phone": "04-888-0343",
@@ -26903,7 +26936,27 @@
     "reviews": 75,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJWfwIOoO7HRURQ1GhpgPmGLc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 10:00–20:00",
+      "יום שני: 10:00–20:00",
+      "יום שלישי: 10:00–20:00",
+      "יום רביעי: 10:00–20:00",
+      "יום חמישי: 10:00–20:00",
+      "יום שישי: 10:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=13193548011736748355",
+    "enriched": true
   },
   {
     "phone": "054-782-9736",
@@ -26913,7 +26966,27 @@
     "reviews": 2,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJ94fQ2Um7HRURFMJKzcKmkYY",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 13:00–21:00",
+      "יום שני: 9:30–21:00",
+      "יום שלישי: 9:30–15:00",
+      "יום רביעי: 9:30–21:00",
+      "יום חמישי: 9:30–21:00",
+      "יום שישי: סגור",
+      "יום שבת: 16:00–21:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9696714828303483412",
+    "enriched": true
   },
   {
     "phone": "052-551-6825",
@@ -26923,7 +26996,20 @@
     "reviews": 4,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJfbKKmIu7HRURfkW3mlxI6l0",
+    "photos": [],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=6767300952647484798",
+    "enriched": true
   },
   {
     "phone": "077-223-1333",
@@ -26933,7 +27019,23 @@
     "reviews": 30,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJMVdjYiS7HRURTFHD8Bw37H4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: 9:00–19:00",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 9:00–15:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9145745540720578892",
+    "enriched": true
   },
   {
     "phone": "054-485-1679",
@@ -26943,7 +27045,12 @@
     "reviews": 2,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJyzuIIMi7HRUR-LEoWF-25ho",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=1938437210246787576",
+    "enriched": true
   },
   {
     "phone": "04-862-3788",
@@ -26953,7 +27060,15 @@
     "reviews": 20,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJ2bmpsk26HRURkHBX3rie-LU",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=13112404831930642576",
+    "enriched": true
   },
   {
     "phone": "04-837-4555",
@@ -26963,7 +27078,22 @@
     "reviews": 11,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:01"
+    "added_at": "2026-04-16 19:01",
+    "place_id": "ChIJhUhnWDK7HRURqO9phf5ZSwg",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–19:00",
+      "יום שני: 8:00–19:00",
+      "יום שלישי: 8:00–19:00",
+      "יום רביעי: 8:00–19:00",
+      "יום חמישי: 8:00–19:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=597670325251600296",
+    "enriched": true
   },
   {
     "phone": "04-834-5107",
@@ -26973,7 +27103,15 @@
     "reviews": 5,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:02"
+    "added_at": "2026-04-16 19:02",
+    "place_id": "ChIJMyhMTQ-7HRURKxePRtwOJSw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=3180965051046500139",
+    "enriched": true
   },
   {
     "phone": "04-834-5346",
@@ -26983,7 +27121,20 @@
     "reviews": 6,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:02"
+    "added_at": "2026-04-16 19:02",
+    "place_id": "ChIJQTmc9AO7HRURhYAMqDKNef0",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 14:00–20:30",
+      "יום שני: 8:00–15:30",
+      "יום שלישי: סגור",
+      "יום רביעי: 8:00–15:00",
+      "יום חמישי: 14:00–20:30",
+      "יום שישי: 8:00–11:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=18264785012485030021",
+    "enriched": true
   },
   {
     "phone": "054-586-0544",
@@ -26993,7 +27144,27 @@
     "reviews": 3,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:02"
+    "added_at": "2026-04-16 19:02",
+    "place_id": "ChIJ3RdIS6m7HRURTGjXM03nlyw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 15:00–20:00",
+      "יום שני: סגור",
+      "יום שלישי: סגור",
+      "יום רביעי: 15:00–20:00",
+      "יום חמישי: סגור",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=3213291177920391244",
+    "enriched": true
   },
   {
     "phone": "04-851-2439",
@@ -27003,7 +27174,12 @@
     "reviews": 1,
     "niche": "Зубные клиники",
     "city": "Хайфа",
-    "added_at": "2026-04-16 19:02"
+    "added_at": "2026-04-16 19:02",
+    "place_id": "ChIJxZla4cW7HRURIbRtVxuHLHk",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=8731502329065223201",
+    "enriched": true
   },
   {
     "phone": "054-447-5950",
@@ -27013,7 +27189,25 @@
     "reviews": 66,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:50"
+    "added_at": "2026-04-16 19:50",
+    "place_id": "ChIJQ2SrtAA3HRUR5C1S9wxPwmc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–23:00",
+      "יום שני: 8:00–23:00",
+      "יום שלישי: 8:00–23:00",
+      "יום רביעי: 8:00–23:00",
+      "יום חמישי: 8:00–23:00",
+      "יום שישי: 7:00–15:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=7476625248496004580",
+    "enriched": true
   },
   {
     "phone": "03-544-4909",
@@ -27023,7 +27217,27 @@
     "reviews": 24,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:50"
+    "added_at": "2026-04-16 19:50",
+    "place_id": "ChIJHYyJ24Y2HRURS94_dnBFp8o",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–23:30",
+      "יום שני: 9:00–23:30",
+      "יום שלישי: 9:00–23:30",
+      "יום רביעי: 9:00–23:30",
+      "יום חמישי: 9:00–23:30",
+      "יום שישי: 9:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=14602716666094673483",
+    "enriched": true
   },
   {
     "phone": "03-939-0361",
@@ -27033,7 +27247,27 @@
     "reviews": 27,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:50"
+    "added_at": "2026-04-16 19:50",
+    "place_id": "ChIJG0O3-ww2HRURO8axZl5Rpqw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 10:00–20:00",
+      "יום שני: 10:00–20:00",
+      "יום שלישי: 10:00–20:00",
+      "יום רביעי: 11:00–20:00",
+      "יום חמישי: 10:00–20:00",
+      "יום שישי: 11:00–15:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12440720486549276219",
+    "enriched": true
   },
   {
     "phone": "054-427-3999",
@@ -27043,7 +27277,20 @@
     "reviews": 14,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:50"
+    "added_at": "2026-04-16 19:50",
+    "place_id": "ChIJWY_dWWU1HRURY_k8JIbKWzM",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 7:00–21:00",
+      "יום שני: 7:00–21:00",
+      "יום שלישי: 7:00–21:00",
+      "יום רביעי: 7:00–21:00",
+      "יום חמישי: 7:00–21:00",
+      "יום שישי: 7:00–21:00",
+      "יום שבת: 7:00–21:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=3700774196297398627",
+    "enriched": true
   },
   {
     "phone": "03-917-2121",
@@ -27053,7 +27300,26 @@
     "reviews": 51,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:50"
+    "added_at": "2026-04-16 19:50",
+    "place_id": "ChIJiyFIfhI3HRURbt61Or8A4no",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–20:00",
+      "יום שני: 9:00–20:00",
+      "יום שלישי: 9:00–20:00",
+      "יום רביעי: 9:00–20:00",
+      "יום חמישי: 9:00–20:00",
+      "יום שישי: 9:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8854640638687567470",
+    "enriched": true
   },
   {
     "phone": "052-550-3710",
@@ -27063,7 +27329,15 @@
     "reviews": 25,
     "niche": "Зубные клиники",
     "city": "Петах-Тиква",
-    "added_at": "2026-04-16 19:51"
+    "added_at": "2026-04-16 19:51",
+    "place_id": "ChIJUZ0JJAs2HRURyNd3Pi2v7B4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=2228348524497983432",
+    "enriched": true
   },
   {
     "phone": "03-934-5985",
