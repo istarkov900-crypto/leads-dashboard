@@ -23339,7 +23339,27 @@
     "reviews": 6,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJhQkH82hJHRURdhd1mwI5ykU",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5028894617273440118",
+    "enriched": true
   },
   {
     "phone": "050-533-4723",
@@ -23349,7 +23369,12 @@
     "reviews": 8,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJuY5Wmt1HHRURBQjKsXln9nE",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=8211864742928189445",
+    "enriched": true
   },
   {
     "phone": "09-958-9181",
@@ -23359,7 +23384,27 @@
     "reviews": 88,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJTxURaoxIHRUR-S6bgUEzp7o",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:30",
+      "יום שני: 8:00–16:30",
+      "יום שלישי: 8:00–16:30",
+      "יום רביעי: 8:00–16:30",
+      "יום חמישי: 8:00–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=13449775168605597433",
+    "enriched": true
   },
   {
     "phone": "052-484-9080",
@@ -23369,7 +23414,25 @@
     "reviews": 47,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJTQxBdplJHRURFUvAnVhNv30",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:00",
+      "יום שני: 7:30–16:00",
+      "יום שלישי: 7:30–16:00",
+      "יום רביעי: 7:30–16:00",
+      "יום חמישי: 7:30–16:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9061046018291813141",
+    "enriched": true
   },
   {
     "phone": "09-958-4088",
@@ -23379,7 +23442,27 @@
     "reviews": 124,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJjwidRo1IHRURqnXB7Sm-2xw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2079464740253431210",
+    "enriched": true
   },
   {
     "phone": "09-950-1551",
@@ -23389,7 +23472,26 @@
     "reviews": 1,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJi4PtKjFJHRURBqLb9kLCmCY",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2781186362766500358",
+    "enriched": true
   },
   {
     "phone": "09-955-7337",
@@ -23399,7 +23501,27 @@
     "reviews": 118,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJ8evv_D5JHRUR_n91kFQMhmQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=7243490608012427262",
+    "enriched": true
   },
   {
     "phone": "09-950-1551",
@@ -23409,7 +23531,27 @@
     "reviews": 4,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJgXDVdp5JHRURqNVZR6mFSQc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=525097793658410408",
+    "enriched": true
   },
   {
     "phone": "09-955-6812",
@@ -23429,7 +23571,27 @@
     "reviews": 211,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJ92oyJexJHRURWxall3Qk_wc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–18:00",
+      "יום שני: 9:00–18:00",
+      "יום שלישי: 9:00–18:00",
+      "יום רביעי: 9:00–18:00",
+      "יום חמישי: 9:00–18:00",
+      "יום שישי: 9:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=576219360505697883",
+    "enriched": true
   },
   {
     "phone": "09-880-0995",
@@ -23439,7 +23601,20 @@
     "reviews": 0,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJn6HMKlhJHRURba-lFcpWQ30",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–16:30",
+      "יום שני: 8:00–16:30",
+      "יום שלישי: 8:00–16:30",
+      "יום רביעי: 8:00–16:30",
+      "יום חמישי: 8:00–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9026153504127168365",
+    "enriched": true
   },
   {
     "phone": "050-232-2270",
@@ -23449,7 +23624,27 @@
     "reviews": 85,
     "niche": "Автомастерские",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJr11jK69JHRURFsSNr-Dbrxo",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–16:45",
+      "יום שני: 9:00–17:15",
+      "יום שלישי: 8:30–17:30",
+      "יום רביעי: 9:00–17:00",
+      "יום חמישי: 9:00–17:00",
+      "יום שישי: 9:00–13:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=1922997323974951958",
+    "enriched": true
   },
   {
     "phone": "09-742-0954",
@@ -23459,7 +23654,27 @@
     "reviews": 131,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJ5TLNtIs4HRUR41VvbJPmprA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:00",
+      "יום שני: 7:30–16:00",
+      "יום שלישי: 7:30–16:00",
+      "יום רביעי: 7:30–16:00",
+      "יום חמישי: 7:30–16:00",
+      "יום שישי: 7:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12729114917663102435",
+    "enriched": true
   },
   {
     "phone": "09-746-1241",
@@ -23469,7 +23684,15 @@
     "reviews": 43,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJ7avnCuw5HRURQpm45RRNymI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=7118586913161255234",
+    "enriched": true
   },
   {
     "phone": "050-544-6667",
@@ -23479,7 +23702,22 @@
     "reviews": 64,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJWVNizGY4HRURRudlVysWNYE",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–17:00",
+      "יום שני: 7:30–17:00",
+      "יום שלישי: 7:30–17:00",
+      "יום רביעי: 7:30–17:00",
+      "יום חמישי: 7:30–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9310372180064069446",
+    "enriched": true
   },
   {
     "phone": "053-724-8182",
@@ -23489,7 +23727,12 @@
     "reviews": 2,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJy-AHw2Y4HRUR4N8E_f8jC_w",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=18161649504670244832",
+    "enriched": true
   },
   {
     "phone": "09-744-8833",
@@ -23499,7 +23742,26 @@
     "reviews": 106,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJM_x1NWE4HRUREG7wJhOP3vc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–15:00",
+      "יום שני: 8:00–15:00",
+      "יום שלישי: 8:00–15:00",
+      "יום רביעי: 8:00–15:00",
+      "יום חמישי: 8:00–15:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17860870484618407440",
+    "enriched": true
   },
   {
     "phone": "09-746-2696",
@@ -23509,7 +23771,26 @@
     "reviews": 37,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJhyKRbmQ4HRURb7bdjhnCtyc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–18:30",
+      "יום שני: 8:30–18:30",
+      "יום שלישי: 8:30–18:30",
+      "יום רביעי: 8:30–18:30",
+      "יום חמישי: 8:30–18:30",
+      "יום שישי: 8:30–14:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2861969503244105327",
+    "enriched": true
   },
   {
     "phone": "09-766-1776",
@@ -23519,7 +23800,27 @@
     "reviews": 75,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:50"
+    "added_at": "2026-04-16 18:50",
+    "place_id": "ChIJQ-o9EoY5HRUR96iTOCeu1Qw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=924836781970663671",
+    "enriched": true
   },
   {
     "phone": "053-588-8804",
@@ -23529,7 +23830,27 @@
     "reviews": 987,
     "niche": "Автомастерские",
     "city": "Раанана",
-    "added_at": "2026-04-16 18:51"
+    "added_at": "2026-04-16 18:51",
+    "place_id": "ChIJe4pJ4WY4HRURPKsIFKIhmHs",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:00–20:00",
+      "יום שני: 7:00–20:00",
+      "יום שלישי: 7:00–20:00",
+      "יום רביעי: 7:00–20:00",
+      "יום חמישי: 7:00–20:00",
+      "יום שישי: 7:00–17:00",
+      "יום שבת: 8:00–20:00"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8905905243129686844",
+    "enriched": true
   },
   {
     "phone": "09-746-1859",
