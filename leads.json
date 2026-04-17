@@ -29166,7 +29166,12 @@
     "reviews": 10,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:33"
+    "added_at": "2026-04-16 21:33",
+    "place_id": "ChIJtbzFtvRLHRUReMqMJyvhu9c",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=15545266114262780536",
+    "enriched": true
   },
   {
     "phone": "052-333-9981",
@@ -29176,7 +29181,12 @@
     "reviews": 7,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:33"
+    "added_at": "2026-04-16 21:33",
+    "place_id": "ChIJOxdBFspLHRURnLtM67N_Wyk",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=2980115989159263132",
+    "enriched": true
   },
   {
     "phone": "03-672-8051",
@@ -29186,7 +29196,12 @@
     "reviews": 2,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:33"
+    "added_at": "2026-04-16 21:33",
+    "place_id": "ChIJRcewgslLHRURkRoJ_4IoBUA",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=4613137936400587409",
+    "enriched": true
   },
   {
     "phone": "052-278-7958",
@@ -29196,7 +29211,22 @@
     "reviews": 4,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:33"
+    "added_at": "2026-04-16 21:33",
+    "place_id": "ChIJt392QmFLHRURD2_MVZo5kQ8",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 14:00–20:00",
+      "יום שני: 13:00–19:00",
+      "יום שלישי: סגור",
+      "יום רביעי: 14:00–20:00",
+      "יום חמישי: סגור",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=1121741117219172111",
+    "enriched": true
   },
   {
     "phone": "03-670-9211",
@@ -29206,7 +29236,22 @@
     "reviews": 2,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:33"
+    "added_at": "2026-04-16 21:33",
+    "place_id": "ChIJOWV4CMtLHRURcWLJFkEBWsI",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–18:30",
+      "יום שני: סגור",
+      "יום שלישי: 8:30–18:30",
+      "יום רביעי: 8:30–12:00",
+      "יום חמישי: 15:00–18:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=14004507370328777329",
+    "enriched": true
   },
   {
     "phone": "03-613-6206",
@@ -29216,7 +29261,27 @@
     "reviews": 11,
     "niche": "Зубные клиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJiUkGzLlLHRURnKJuwJ4t44o",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 10:00–17:00",
+      "יום שני: 10:00–17:00",
+      "יום שלישי: 10:00–17:00",
+      "יום רביעי: 10:00–17:00",
+      "יום חמישי: 10:00–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10007892956803932828",
+    "enriched": true
   },
   {
     "phone": "050-377-7743",
@@ -29226,7 +29291,27 @@
     "reviews": 146,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJz5fvWRRJHRURIhZtu3kD8zk",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: 9:00–17:00",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 9:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4175685100872996386",
+    "enriched": true
   },
   {
     "phone": "09-774-7887",
@@ -29236,7 +29321,23 @@
     "reviews": 4,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJD9ryuLpJHRURAq8jERisQDs",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4269601666113974018",
+    "enriched": true
   },
   {
     "phone": "052-607-7961",
@@ -29246,7 +29347,27 @@
     "reviews": 17,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJtTlCQ1BHHRURn7FDqNv04wc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–15:00",
+      "יום שני: 9:00–15:00",
+      "יום שלישי: 9:00–15:00",
+      "יום רביעי: 9:00–15:00",
+      "יום חמישי: סגור",
+      "יום שישי: 9:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=568567202236838303",
+    "enriched": true
   },
   {
     "phone": "051-270-3433",
@@ -29256,7 +29377,24 @@
     "reviews": 24,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJN4TPpiNJHRURqXuVf_6OVIY",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–14:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9679518722839378857",
+    "enriched": true
   },
   {
     "phone": "09-954-3103",
@@ -29266,7 +29404,25 @@
     "reviews": 2,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJV1zL8gxIHRURzokkvHn4AK4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–18:00",
+      "יום שני: 9:00–18:00",
+      "יום שלישי: 8:30–18:00",
+      "יום רביעי: 8:30–18:00",
+      "יום חמישי: סגור",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12538294564330703310",
+    "enriched": true
   },
   {
     "phone": "09-381-9661",
@@ -29276,7 +29432,23 @@
     "reviews": 0,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJzR4cD2pJHRURiFr2YWoUe8E",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–20:00",
+      "יום שני: 9:00–20:00",
+      "יום שלישי: סגור",
+      "יום רביעי: 9:00–20:00",
+      "יום חמישי: 9:00–20:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=13941759518598126216",
+    "enriched": true
   },
   {
     "phone": "09-955-8856",
@@ -29286,7 +29458,12 @@
     "reviews": 15,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJMfSmEg1IHRURWB7e-ziobAA",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=30584260182023768",
+    "enriched": true
   },
   {
     "phone": "052-818-3830",
@@ -29296,7 +29473,26 @@
     "reviews": 87,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJr7dA-HBLHRURM-0ukGqka-8",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17252063575165300019",
+    "enriched": true
   },
   {
     "phone": "052-893-7050",
@@ -29306,7 +29502,22 @@
     "reviews": 40,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJIQFkjsVJHRURSHMuq5Ld8Zs",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–18:00",
+      "יום שני: 9:00–18:00",
+      "יום שלישי: 9:00–18:00",
+      "יום רביעי: 9:00–18:00",
+      "יום חמישי: 9:00–18:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11237006167273009992",
+    "enriched": true
   },
   {
     "phone": "09-954-6102",
@@ -29316,7 +29527,20 @@
     "reviews": 10,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJz-rioAxIHRURzLI2A-_-CYc",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:30–16:00",
+      "יום שני: 14:00–19:00",
+      "יום שלישי: 8:30–16:00",
+      "יום רביעי: 8:30–16:00",
+      "יום חמישי: סגור",
+      "יום שישי: 8:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9730588772415222476",
+    "enriched": true
   },
   {
     "phone": "09-957-4223",
@@ -29326,7 +29550,20 @@
     "reviews": 4,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJv7EzWghIHRUR9uLl_t7FMHc",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: סגור",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8588582050945426166",
+    "enriched": true
   },
   {
     "phone": "09-955-3136",
@@ -29336,7 +29573,12 @@
     "reviews": 8,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJN-0YwAtIHRURZoLJSkZybPo",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=18044923453194732134",
+    "enriched": true
   },
   {
     "phone": "09-958-9887",
@@ -29346,7 +29588,23 @@
     "reviews": 4,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJ47cczBFIHRURU8FhVpbnwXw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 10:00–19:00",
+      "יום שני: 10:00–19:00",
+      "יום שלישי: 10:00–19:00",
+      "יום רביעי: 10:00–14:00",
+      "יום חמישי: 10:00–19:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8989720964088578387",
+    "enriched": true
   },
   {
     "phone": "09-954-7999",
@@ -29356,7 +29614,12 @@
     "reviews": 1,
     "niche": "Зубные клиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 21:34"
+    "added_at": "2026-04-16 21:34",
+    "place_id": "ChIJM3-_DAtIHRURCfw_Ru2NpTQ",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=3793594311354874889",
+    "enriched": true
   },
   {
     "phone": "09-958-2767",
