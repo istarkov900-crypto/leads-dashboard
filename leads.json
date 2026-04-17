@@ -21428,7 +21428,24 @@
     "reviews": 28,
     "niche": "Автомастерские",
     "city": "Нетания",
-    "added_at": "2026-04-16 18:45"
+    "added_at": "2026-04-16 18:45",
+    "place_id": "ChIJLSqzIOgVHRURbwC0APhErdM",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:00–17:00",
+      "יום שני: 7:00–17:00",
+      "יום שלישי: 7:00–17:00",
+      "יום רביעי: 7:00–17:00",
+      "יום חמישי: 7:00–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15252923344928112751",
+    "enriched": true
   },
   {
     "phone": "09-833-5725",
@@ -21438,7 +21455,16 @@
     "reviews": 118,
     "niche": "Автомастерские",
     "city": "Нетания",
-    "added_at": "2026-04-16 18:45"
+    "added_at": "2026-04-16 18:45",
+    "place_id": "ChIJzQyNkzg_HRURSU31TVHpY_8",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=18402809037775523145",
+    "enriched": true
   },
   {
     "phone": "09-885-2380",
@@ -21448,7 +21474,27 @@
     "reviews": 353,
     "niche": "Автомастерские",
     "city": "Нетания",
-    "added_at": "2026-04-16 18:45"
+    "added_at": "2026-04-16 18:45",
+    "place_id": "ChIJs0LAMIBAHRUR_SPXSFxmxfk",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–17:00",
+      "יום שני: 8:30–17:00",
+      "יום שלישי: 8:30–17:00",
+      "יום רביעי: 8:30–17:00",
+      "יום חמישי: 8:30–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17997904032401138685",
+    "enriched": true
   },
   {
     "phone": "08-856-2121",
@@ -21458,7 +21504,27 @@
     "reviews": 79,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJYXjW0WmjAhUR939WyKvCUog",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:30",
+      "יום שני: 8:00–16:30",
+      "יום שלישי: 8:00–16:30",
+      "יום רביעי: 8:00–16:30",
+      "יום חמישי: 8:00–16:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9823127780304781303",
+    "enriched": true
   },
   {
     "phone": "08-852-2205",
@@ -21468,7 +21534,27 @@
     "reviews": 249,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJQZX1d0SjAhURLyx6E9HDDtg",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: 7:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15568596264608738351",
+    "enriched": true
   },
   {
     "phone": "08-856-7512",
@@ -21478,7 +21564,23 @@
     "reviews": 90,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJc8jGPyoQ-hQRk2OvdJnBKrM",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12910344146642756499",
+    "enriched": true
   },
   {
     "phone": "08-641-2123",
@@ -21488,7 +21590,27 @@
     "reviews": 86,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJE9FMckCjAhURDucVfK1-BtI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:30–15:45",
+      "יום שני: 8:30–15:45",
+      "יום שלישי: 8:30–15:45",
+      "יום רביעי: 8:30–15:45",
+      "יום חמישי: 8:30–15:45",
+      "יום שישי: 8:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15133922881401382670",
+    "enriched": true
   },
   {
     "phone": "072-250-8484",
@@ -21498,7 +21620,24 @@
     "reviews": 87,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJldTHJKSkAhUR62mO68quZZc",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:30",
+      "יום שני: 8:00–16:30",
+      "יום שלישי: 8:00–16:30",
+      "יום רביעי: 8:00–16:30",
+      "יום חמישי: 8:00–16:30",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10909317858933500395",
+    "enriched": true
   },
   {
     "phone": "08-856-3902",
@@ -21508,7 +21647,18 @@
     "reviews": 18,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJXeDDha-kAhURzljbIwAalsQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=14165538265844373710",
+    "enriched": true
   },
   {
     "phone": "08-856-4181",
@@ -21518,7 +21668,27 @@
     "reviews": 71,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJXeDDha-kAhURAlU3FdMAvds",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15833812771498579202",
+    "enriched": true
   },
   {
     "phone": "08-855-7271",
@@ -21528,7 +21698,27 @@
     "reviews": 1092,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJ_z9zV76iAhURqSwuhazkMfo",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:45–13:30, 14:00–15:30",
+      "יום שני: 7:45–13:30, 14:00–15:30",
+      "יום שלישי: 7:45–13:30, 14:00–15:30",
+      "יום רביעי: 7:45–13:30, 14:00–15:30",
+      "יום חמישי: 7:45–15:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=18028442212960709801",
+    "enriched": true
   },
   {
     "phone": "076-862-0951",
@@ -21538,7 +21728,20 @@
     "reviews": 8,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJHT5POKOjAhURMYurLml4ah0",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2119638967781133105",
+    "enriched": true
   },
   {
     "phone": "053-324-4102",
@@ -21548,7 +21751,27 @@
     "reviews": 150,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJo93ILkOjAhURqDagCS9QIB0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2098765589309830824",
+    "enriched": true
   },
   {
     "phone": "08-852-3774",
@@ -21558,7 +21781,17 @@
     "reviews": 14,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJYXjW0WmjAhURgjaV-AtbmOA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=16183785367929173634",
+    "enriched": true
   },
   {
     "phone": "08-856-3111",
@@ -21568,7 +21801,14 @@
     "reviews": 18,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJ-yvbF7KkAhURpMalDMXzK3I",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=8226937171968640676",
+    "enriched": true
   },
   {
     "phone": "08-853-2233",
@@ -21578,7 +21818,22 @@
     "reviews": 79,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJy7VMokSjAhURNm2WXpvPe6k",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:00",
+      "יום שני: 7:30–16:00",
+      "יום שלישי: 7:30–16:00",
+      "יום רביעי: 7:30–16:00",
+      "יום חמישי: 7:30–16:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12212583080759029046",
+    "enriched": true
   },
   {
     "phone": "08-853-1113",
@@ -21588,7 +21843,19 @@
     "reviews": 55,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJW7mTRGCjAhUR0C2yhctnJdA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=14998508257846373840",
+    "enriched": true
   },
   {
     "phone": "050-546-1117",
@@ -21598,7 +21865,14 @@
     "reviews": 11,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJpUegQ0CjAhURW9nWG4LEAPE",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=17366096226232490331",
+    "enriched": true
   },
   {
     "phone": "076-889-7792",
@@ -21608,7 +21882,20 @@
     "reviews": 37,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJCfBQW0GjAhURDGPc_kY3RU0",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5567917292376580876",
+    "enriched": true
   },
   {
     "phone": "08-852-3893",
@@ -21618,7 +21905,12 @@
     "reviews": 10,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJBUB2oESjAhURGvFR5gReLew",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=17018361942039982362",
+    "enriched": true
   },
   {
     "phone": "08-852-2338",
