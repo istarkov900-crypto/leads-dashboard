@@ -21920,7 +21920,27 @@
     "reviews": 78,
     "niche": "Автомастерские",
     "city": "Ашдод",
-    "added_at": "2026-04-16 18:46"
+    "added_at": "2026-04-16 18:46",
+    "place_id": "ChIJzfEJQkCjAhURl70lo2y4SxA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=1174234904593284503",
+    "enriched": true
   },
   {
     "phone": "053-777-8501",
@@ -21960,7 +21980,27 @@
     "reviews": 151,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJI4JGEBBmAhUR_1G92fw5oAQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–17:00",
+      "יום שני: 7:30–17:00",
+      "יום שלישי: 7:30–17:00",
+      "יום רביעי: 7:30–17:00",
+      "יום חמישי: 7:30–17:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=333330130573021695",
+    "enriched": true
   },
   {
     "phone": "08-665-5555",
@@ -21970,7 +22010,27 @@
     "reviews": 282,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJA3FeXU5mAhURelf6D-XYDTw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: 8:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4327353295300089722",
+    "enriched": true
   },
   {
     "phone": "08-625-0900",
@@ -21980,7 +22040,27 @@
     "reviews": 185,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJo5NnLaxnAhURDk8dnaFE_HE",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–18:00",
+      "יום שני: 7:30–18:00",
+      "יום שלישי: 7:30–18:00",
+      "יום רביעי: 7:30–18:00",
+      "יום חמישי: 7:30–18:00",
+      "יום שישי: 7:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8213515281333309198",
+    "enriched": true
   },
   {
     "phone": "08-627-8777",
@@ -21990,7 +22070,20 @@
     "reviews": 44,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJCwSYqk1mAhURPALsabBcDWA",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 8:00–18:00",
+      "יום שני: 8:00–18:00",
+      "יום שלישי: 8:00–18:00",
+      "יום רביעי: 8:00–18:00",
+      "יום חמישי: 8:00–18:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=6921290115099394620",
+    "enriched": true
   },
   {
     "phone": "08-620-5666",
@@ -22000,7 +22093,27 @@
     "reviews": 100,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJI4JGEBBmAhURgXUvGeUHMJY",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:00",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: 7:30–11:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10822158585122747777",
+    "enriched": true
   },
   {
     "phone": "08-623-8208",
@@ -22010,7 +22123,27 @@
     "reviews": 46,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJgyoFhEhmAhURkep63CTXg5Y",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–17:00",
+      "יום שני: 7:30–17:00",
+      "יום שלישי: 7:30–17:00",
+      "יום רביעי: 7:30–17:00",
+      "יום חמישי: 7:30–17:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10845748880956123793",
+    "enriched": true
   },
   {
     "phone": "08-665-9450",
@@ -22020,7 +22153,12 @@
     "reviews": 15,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:47"
+    "added_at": "2026-04-16 18:47",
+    "place_id": "ChIJAYtq5yhmAhUR50vXYtAOQ_4",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=18321503997247572967",
+    "enriched": true
   },
   {
     "phone": "08-627-2666",
@@ -22030,7 +22168,27 @@
     "reviews": 131,
     "niche": "Автомастерские",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJXUWXAklmAhUR08yE-loZ46k",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:00",
+      "יום שני: 7:30–16:00",
+      "יום שלישי: 7:30–16:00",
+      "יום רביעי: 7:30–16:00",
+      "יום חמישי: 7:30–16:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12241656090663898323",
+    "enriched": true
   },
   {
     "phone": "052-477-9087",
@@ -22040,7 +22198,27 @@
     "reviews": 184,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJYxXWLg1LHRURwLhV33VkEx8",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–19:30",
+      "יום שני: 7:30–19:30",
+      "יום שלישי: 7:30–19:30",
+      "יום רביעי: 7:30–19:30",
+      "יום חמישי: 7:30–19:30",
+      "יום שישי: 7:30–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2239243897154156736",
+    "enriched": true
   },
   {
     "phone": "03-619-5801",
@@ -22050,7 +22228,18 @@
     "reviews": 69,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJBUoYmIdJHRURi11BUNea_z0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=4467459604929928587",
+    "enriched": true
   },
   {
     "phone": "03-570-7020",
@@ -22060,7 +22249,12 @@
     "reviews": 19,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJBUoYmIdJHRURGOgRrA0kq5M",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=10640638185732958232",
+    "enriched": true
   },
   {
     "phone": "054-727-2300",
@@ -22070,7 +22264,27 @@
     "reviews": 469,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJq-y0CzJKHRURfiuLIn9a13A",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–22:00",
+      "יום שני: 8:00–22:00",
+      "יום שלישי: 8:00–22:00",
+      "יום רביעי: 8:00–22:00",
+      "יום חמישי: 8:00–22:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=8131067154327612286",
+    "enriched": true
   },
   {
     "phone": "03-570-5076",
@@ -22080,7 +22294,16 @@
     "reviews": 78,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJ_cNpl4dJHRURk-zs0n8_RLI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=12845461855399636115",
+    "enriched": true
   },
   {
     "phone": "03-570-3497",
@@ -22090,7 +22313,27 @@
     "reviews": 66,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJz9tYvodJHRURab6eGXdmVzg",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:00–16:00",
+      "יום שני: 7:00–16:00",
+      "יום שלישי: 7:00–16:00",
+      "יום רביעי: 7:00–16:00",
+      "יום חמישי: 7:00–16:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=4059826250814766697",
+    "enriched": true
   },
   {
     "phone": "03-570-6587",
@@ -22100,7 +22343,25 @@
     "reviews": 60,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJDS-WvYdJHRUREun62ela0qw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–17:00",
+      "יום שני: 7:30–17:00",
+      "יום שלישי: 7:30–17:00",
+      "יום רביעי: 7:30–17:00",
+      "יום חמישי: 7:30–17:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12453115880063822098",
+    "enriched": true
   },
   {
     "phone": "03-619-8715",
@@ -22110,7 +22371,17 @@
     "reviews": 66,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJp7oPxilKHRURWEmNO8SETzY",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=3913492579555821912",
+    "enriched": true
   },
   {
     "phone": "050-242-5381",
