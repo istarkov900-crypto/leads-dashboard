@@ -25861,7 +25861,12 @@
     "reviews": 0,
     "niche": "Ветклиники",
     "city": "Беэр-Шева",
-    "added_at": "2026-04-16 18:57"
+    "added_at": "2026-04-16 18:57",
+    "place_id": "ChIJsy287-RmAhURxFemaKBxrPs",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=18134994733278582724",
+    "enriched": true
   },
   {
     "phone": "03-731-9855",
@@ -25871,7 +25876,27 @@
     "reviews": 273,
     "niche": "Ветклиники",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:57"
+    "added_at": "2026-04-16 18:57",
+    "place_id": "ChIJTWFTCrRLHRUR71MXQNpohc4",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–12:30, 16:30–20:00",
+      "יום שני: 9:00–12:30, 16:30–20:00",
+      "יום שלישי: 9:00–12:30, 16:30–20:00",
+      "יום רביעי: 9:00–12:30",
+      "יום חמישי: 9:00–12:30, 16:30–20:00",
+      "יום שישי: 9:00–15:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=14881415830303101935",
+    "enriched": true
   },
   {
     "phone": "052-250-1280",
@@ -25881,7 +25906,25 @@
     "reviews": 57,
     "niche": "Ветклиники",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:57"
+    "added_at": "2026-04-16 18:57",
+    "place_id": "ChIJM5ldAv9KHRUR-g3NKmroKUg",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 9:00–19:00",
+      "יום שלישי: 9:00–19:00",
+      "יום רביעי: 9:00–19:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 9:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5199942787458207226",
+    "enriched": true
   },
   {
     "phone": "03-672-7234",
@@ -25891,7 +25934,23 @@
     "reviews": 32,
     "niche": "Ветклиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJ628QFclLHRURFmerRmoA7Bs",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 17:00–20:00",
+      "יום שני: סגור",
+      "יום שלישי: 17:00–20:00",
+      "יום רביעי: 17:00–20:00",
+      "יום חמישי: 17:00–20:00",
+      "יום שישי: 13:00–16:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2011983589979940630",
+    "enriched": true
   },
   {
     "phone": "050-208-0045",
@@ -25901,7 +25960,12 @@
     "reviews": 14,
     "niche": "Ветклиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJLY37afRKHRURAegiwwJI7KE",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=11667779911311091713",
+    "enriched": true
   },
   {
     "phone": "1-800-293-294",
@@ -25911,7 +25975,25 @@
     "reviews": 55,
     "niche": "Ветклиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJXdp10bdLHRURclVicf3ue98",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: 9:00–18:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=16103727664889746802",
+    "enriched": true
   },
   {
     "phone": "053-255-5653",
@@ -25921,7 +26003,27 @@
     "reviews": 38,
     "niche": "Ветклиники",
     "city": "Рамат-Ган",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJhbe7bndLHRURp7KaxfOrPLE",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=12771271706796536487",
+    "enriched": true
   },
   {
     "phone": "053-844-0422",
@@ -25941,7 +26043,27 @@
     "reviews": 204,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJ-e6mrtxJHRURy4RuRR_NAx0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–14:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2090740186222593227",
+    "enriched": true
   },
   {
     "phone": "09-956-5205",
@@ -25951,7 +26073,27 @@
     "reviews": 122,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJObFoEUBIHRURL6hSxPljeZg",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–12:00, 16:30–19:00",
+      "יום שני: 9:00–12:00, 16:30–19:00",
+      "יום שלישי: 9:00–12:00, 16:30–19:00",
+      "יום רביעי: 9:00–12:00, 16:30–19:00",
+      "יום חמישי: 9:00–12:00, 16:30–19:00",
+      "יום שישי: 9:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10986922690338793519",
+    "enriched": true
   },
   {
     "phone": "09-955-2325",
@@ -25961,7 +26103,27 @@
     "reviews": 12,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJQRTiWS5GHRURH64Cgu_sopM",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:30–20:00",
+      "יום שני: 9:30–20:00",
+      "יום שלישי: 9:30–20:00",
+      "יום רביעי: 9:30–20:00",
+      "יום חמישי: 9:30–20:00",
+      "יום שישי: 9:30–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=10638325783225085471",
+    "enriched": true
   },
   {
     "phone": "09-956-6056",
@@ -25971,7 +26133,27 @@
     "reviews": 132,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJfQy6z_VIHRURpUpUqbOdKoA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: סגור",
+      "יום שני: 14:00–17:00",
+      "יום שלישי: 8:00–10:30",
+      "יום רביעי: 8:00–10:30",
+      "יום חמישי: סגור",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=9235367380842203813",
+    "enriched": true
   },
   {
     "phone": "054-450-4215",
@@ -25981,7 +26163,27 @@
     "reviews": 126,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJk8M0QNVHHRURODfy6idgI2I",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:30–13:00, 16:00–19:00",
+      "יום שני: 9:30–13:00, 16:00–19:00",
+      "יום שלישי: 9:30–13:00",
+      "יום רביעי: 9:30–13:00, 16:00–19:00",
+      "יום חמישי: 9:30–13:00, 16:00–19:00",
+      "יום שישי: 9:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=7071601564463544120",
+    "enriched": true
   },
   {
     "phone": "053-336-2300",
@@ -25991,7 +26193,27 @@
     "reviews": 110,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJB5X-NxtJHRUR9ujnK_RvOjE",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=3547270751007009014",
+    "enriched": true
   },
   {
     "phone": "09-956-5205",
@@ -26001,7 +26223,27 @@
     "reviews": 5,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJ-e6mrtxJHRURy4RuRR_NAx0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: 8:00–14:30",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=2090740186222593227",
+    "enriched": true
   },
   {
     "phone": "09-956-7889",
@@ -26011,7 +26253,20 @@
     "reviews": 2,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJGUVfO7NJHRURyBQbNjknm-E",
+    "photos": [],
+    "hours": [
+      "יום ראשון: 9:00–19:00",
+      "יום שני: 8:00–13:00",
+      "יום שלישי: 9:00–19:00",
+      "יום רביעי: 9:00–16:00",
+      "יום חמישי: 9:00–19:00",
+      "יום שישי: 8:30–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=16256630406598300872",
+    "enriched": true
   },
   {
     "phone": "09-950-6090",
@@ -26021,7 +26276,12 @@
     "reviews": 1,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJBbIJPHRIHRURObWA7IPAuc4",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=14896148915345732921",
+    "enriched": true
   },
   {
     "phone": "09-955-6276",
@@ -26031,7 +26291,15 @@
     "reviews": 8,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJkWWp05lJHRUR4F7Rt8i51uo",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=16921916921619767008",
+    "enriched": true
   },
   {
     "phone": "09-774-6906",
@@ -26041,7 +26309,27 @@
     "reviews": 61,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:58"
+    "added_at": "2026-04-16 18:58",
+    "place_id": "ChIJ__-_BPNHHRURtxMULOP0awQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: פתוח 24 שעות",
+      "יום שני: פתוח 24 שעות",
+      "יום שלישי: פתוח 24 שעות",
+      "יום רביעי: פתוח 24 שעות",
+      "יום חמישי: פתוח 24 שעות",
+      "יום שישי: פתוח 24 שעות",
+      "יום שבת: פתוח 24 שעות"
+    ],
+    "maps_url": "https://maps.google.com/?cid=318617455194018743",
+    "enriched": true
   },
   {
     "phone": "09-951-4894",
@@ -26051,7 +26339,27 @@
     "reviews": 14,
     "niche": "Ветклиники",
     "city": "Герцлия",
-    "added_at": "2026-04-16 18:59"
+    "added_at": "2026-04-16 18:59",
+    "place_id": "ChIJQQhiFZFIHRUR3MbL-uRoL9U",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 9:00–13:00, 16:00–19:00",
+      "יום שני: 9:00–13:00",
+      "יום שלישי: 9:00–13:00, 16:00–19:00",
+      "יום רביעי: 9:00–13:00, 16:00–19:00",
+      "יום חמישי: 9:00–13:00",
+      "יום שישי: 9:00–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=15361612186653542108",
+    "enriched": true
   },
   {
     "phone": "09-954-6444",
