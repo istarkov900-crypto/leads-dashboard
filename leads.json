@@ -22391,7 +22391,22 @@
     "reviews": 41,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJ1zE8eYlLHRURXNsCzR_7KMw",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–17:30",
+      "יום שני: 7:30–17:30",
+      "יום שלישי: 7:30–17:30",
+      "יום רביעי: 7:30–17:30",
+      "יום חמישי: 7:30–17:30",
+      "יום שישי: 7:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=14711284296807799644",
+    "enriched": true
   },
   {
     "phone": "050-551-3319",
@@ -22401,7 +22416,23 @@
     "reviews": 70,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJPRwKaSBKHRURS9AtL9ruthI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–17:00",
+      "יום שני: 8:00–17:00",
+      "יום שלישי: 8:00–17:00",
+      "יום רביעי: 8:00–17:00",
+      "יום חמישי: 8:00–17:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=1348527759305855051",
+    "enriched": true
   },
   {
     "phone": "03-570-4855",
@@ -22411,7 +22442,27 @@
     "reviews": 148,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJeQ363ylKHRUR9mUxyaeo6qQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–16:30",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11883496005358937590",
+    "enriched": true
   },
   {
     "phone": "03-624-2202",
@@ -22421,7 +22472,27 @@
     "reviews": 263,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJyXgSj-JLHRURURl3OXvpsvQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–23:00",
+      "יום שני: 8:00–23:00",
+      "יום שלישי: 8:00–23:00",
+      "יום רביעי: 8:00–23:00",
+      "יום חמישי: 8:00–23:00",
+      "יום שישי: 8:00–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17632412206563268945",
+    "enriched": true
   },
   {
     "phone": "03-570-8693",
@@ -22431,7 +22502,12 @@
     "reviews": 10,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJhQbw5ClKHRUR6JjgGI1NWvM",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=17535413367523547368",
+    "enriched": true
   },
   {
     "phone": "03-616-5466",
@@ -22441,7 +22517,27 @@
     "reviews": 76,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJiz3c4KVLHRURi7djVUC9AMA",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:30",
+      "יום שני: 7:30–16:30",
+      "יום שלישי: 7:30–15:00",
+      "יום רביעי: 7:30–16:30",
+      "יום חמישי: 7:30–16:30",
+      "יום שישי: 7:30–13:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=13835266139290318731",
+    "enriched": true
   },
   {
     "phone": "03-579-1615",
@@ -22451,7 +22547,27 @@
     "reviews": 1693,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJ12dckSlKHRURgD3rFUvoG6M",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–16:00",
+      "יום שני: 7:30–16:00",
+      "יום שלישי: 7:30–14:00",
+      "יום רביעי: 7:30–16:00",
+      "יום חמישי: 7:30–16:00",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11753243061741370752",
+    "enriched": true
   },
   {
     "phone": "050-529-7717",
@@ -22461,7 +22577,27 @@
     "reviews": 121,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJG-DdhilKHRURKQ2Ar8LZJaI",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–18:00",
+      "יום שני: 7:30–18:00",
+      "יום שלישי: 7:30–18:00",
+      "יום רביעי: 7:30–18:00",
+      "יום חמישי: 7:30–18:00",
+      "יום שישי: 7:30–14:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11683984238473907497",
+    "enriched": true
   },
   {
     "phone": "03-578-0090",
@@ -22471,7 +22607,12 @@
     "reviews": 18,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJPRwKaSBKHRURaGnApuslACA",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=2305884703258863976",
+    "enriched": true
   },
   {
     "phone": "03-570-0464",
@@ -22481,7 +22622,14 @@
     "reviews": 44,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJp8XmDylKHRURMN8yBVoaoig",
+    "photos": [
+      "photo_1.jpg"
+    ],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=2927931681680842544",
+    "enriched": true
   },
   {
     "phone": "050-698-0817",
@@ -22491,7 +22639,24 @@
     "reviews": 39,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJtc8gJi9LHRURYAjgJEwh5Jw",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 7:30–18:30",
+      "יום שני: 7:30–18:30",
+      "יום שלישי: 7:30–18:30",
+      "יום רביעי: 7:30–18:30",
+      "יום חמישי: 7:30–18:30",
+      "יום שישי: 7:30–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=11305197575526680672",
+    "enriched": true
   },
   {
     "phone": "09-957-1787",
@@ -22501,7 +22666,27 @@
     "reviews": 491,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJV2rF7fRIHRURxHP_IJ7qte0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–16:00",
+      "יום שני: 8:00–16:00",
+      "יום שלישי: 8:00–16:00",
+      "יום רביעי: 8:00–16:00",
+      "יום חמישי: 8:00–16:00",
+      "יום שישי: 8:00–12:00",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=17128854722652894148",
+    "enriched": true
   },
   {
     "phone": "053-426-1420",
@@ -22511,7 +22696,24 @@
     "reviews": 11,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJWW-8NR1LHRURbPqtoph5GQQ",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–20:00",
+      "יום שני: 8:00–20:00",
+      "יום שלישי: 8:00–20:00",
+      "יום רביעי: 8:00–20:00",
+      "יום חמישי: 8:00–20:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=295400947040778860",
+    "enriched": true
   },
   {
     "phone": "054-438-5900",
@@ -22521,7 +22723,27 @@
     "reviews": 16,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJeXLMWyNKHRURawSrKiMe5cU",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg",
+      "photo_3.jpg",
+      "photo_4.jpg",
+      "photo_5.jpg",
+      "photo_6.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 6:30–14:30",
+      "יום שני: 6:30–14:30",
+      "יום שלישי: 6:30–14:30",
+      "יום רביעי: 6:30–14:30",
+      "יום חמישי: 6:30–14:30",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=14259836931527083115",
+    "enriched": true
   },
   {
     "phone": "054-777-7711",
@@ -22531,7 +22753,23 @@
     "reviews": 35,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:48"
+    "added_at": "2026-04-16 18:48",
+    "place_id": "ChIJCe9lPrBLHRURcmNijF_xdk0",
+    "photos": [
+      "photo_1.jpg",
+      "photo_2.jpg"
+    ],
+    "hours": [
+      "יום ראשון: 8:00–19:00",
+      "יום שני: 8:00–19:00",
+      "יום שלישי: 8:00–19:00",
+      "יום רביעי: 8:00–19:00",
+      "יום חמישי: 8:00–19:00",
+      "יום שישי: סגור",
+      "יום שבת: סגור"
+    ],
+    "maps_url": "https://maps.google.com/?cid=5581914180851753842",
+    "enriched": true
   },
   {
     "phone": "054-430-7461",
@@ -22581,7 +22819,12 @@
     "reviews": 2,
     "niche": "Автомастерские",
     "city": "Бней-Брак",
-    "added_at": "2026-04-16 18:49"
+    "added_at": "2026-04-16 18:49",
+    "place_id": "ChIJ496nXXRJHRUR7KPpiEuKm8c",
+    "photos": [],
+    "hours": [],
+    "maps_url": "https://maps.google.com/?cid=14383241891962004460",
+    "enriched": true
   },
   {
     "phone": "03-733-3555",
