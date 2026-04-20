@@ -22847,7 +22847,9 @@
     ],
     "hours": [],
     "maps_url": "https://maps.google.com/?cid=15259178940777920214",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-20 19:18"
   },
   {
     "phone": "09-954-3435",
