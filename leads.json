@@ -3315,7 +3315,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=13095133182476089839",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-20 19:20"
   },
   {
     "phone": "09-372-2205",
