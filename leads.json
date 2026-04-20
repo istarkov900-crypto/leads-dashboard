@@ -4545,7 +4545,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=93055638306468844",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-20 19:23"
   },
   {
     "phone": "052-431-4987",
