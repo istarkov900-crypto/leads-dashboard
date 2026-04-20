@@ -22389,7 +22389,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=14259836931527083115",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-20 19:21"
   },
   {
     "phone": "054-777-7711",
