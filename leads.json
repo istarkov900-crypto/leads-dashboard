@@ -18135,7 +18135,9 @@
     "photos": [],
     "hours": [],
     "maps_url": "https://maps.google.com/?cid=16220979763745881863",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 16:01"
   },
   {
     "phone": "03-618-5327",
