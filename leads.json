@@ -15641,7 +15641,9 @@
       "יום שבת: פתוח 24 שעות"
     ],
     "maps_url": "https://maps.google.com/?cid=7216201633346818097",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 15:41"
   },
   {
     "phone": "054-628-8864",
