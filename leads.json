@@ -23686,7 +23686,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=11017167894050690463",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 15:54"
   },
   {
     "phone": "09-767-9195",
