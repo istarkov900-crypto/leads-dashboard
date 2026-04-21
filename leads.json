@@ -12781,7 +12781,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=17645760057503097179",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 15:50"
   },
   {
     "phone": "08-665-6348",
