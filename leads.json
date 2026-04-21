@@ -6761,7 +6761,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=7109312441236066271",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 16:03"
   },
   {
     "phone": "03-523-7822",
