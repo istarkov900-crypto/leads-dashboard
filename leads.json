@@ -1215,7 +1215,9 @@
       "יום שבת: פתוח 24 שעות"
     ],
     "maps_url": "https://maps.google.com/?cid=3025646643438726556",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 15:48"
   },
   {
     "phone": "077-550-4893",
