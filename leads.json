@@ -11220,7 +11220,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=6979254105904386280",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 16:00"
   },
   {
     "phone": "072-393-8799",
