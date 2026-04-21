@@ -14158,7 +14158,9 @@
       "יום שבת: פתוח 24 שעות"
     ],
     "maps_url": "https://maps.google.com/?cid=18359920938918831592",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-21 15:56"
   },
   {
     "phone": "050-221-0076",
