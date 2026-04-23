@@ -8244,7 +8244,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=12798380245060115818",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-23 11:19"
   },
   {
     "phone": "072-335-5558",
