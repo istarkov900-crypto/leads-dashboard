@@ -24843,7 +24843,9 @@
     "photos": [],
     "hours": [],
     "maps_url": "https://maps.google.com/?cid=6878848335181196749",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-23 12:01"
   },
   {
     "phone": "04-651-6625",
