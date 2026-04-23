@@ -3811,7 +3811,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=1572761697182359744",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-23 11:21"
   },
   {
     "phone": "050-748-1246",
