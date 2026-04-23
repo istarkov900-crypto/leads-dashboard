@@ -7282,7 +7282,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=12284276213060042265",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-23 11:25"
   },
   {
     "phone": "054-206-1406",
