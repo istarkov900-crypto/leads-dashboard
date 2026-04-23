@@ -2144,7 +2144,9 @@
       "יום שבת: פתוח 24 שעות"
     ],
     "maps_url": "https://maps.google.com/?cid=16334929769104777155",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-23 11:26"
   },
   {
     "phone": "072-216-3395",
