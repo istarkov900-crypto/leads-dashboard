@@ -600,7 +600,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=3575250976025855946",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-26 14:17"
   },
   {
     "phone": "077-231-0013",
