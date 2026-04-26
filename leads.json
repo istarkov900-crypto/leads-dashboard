@@ -13870,7 +13870,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=4113717670328487591",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-26 14:28"
   },
   {
     "phone": "073-374-6113",
