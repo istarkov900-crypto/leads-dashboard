@@ -13479,7 +13479,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=2391739285222654623",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-26 14:30"
   },
   {
     "phone": "03-677-5537",
