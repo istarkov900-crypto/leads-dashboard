@@ -15612,7 +15612,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=699356453078556061",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-26 14:22"
   },
   {
     "phone": "054-747-2293",
