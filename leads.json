@@ -20387,7 +20387,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=9751651813544257647",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-26 14:20"
   },
   {
     "phone": "03-965-5325",
