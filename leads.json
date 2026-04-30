@@ -10288,7 +10288,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=10750632969579239528",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-04-30 21:11"
   },
   {
     "phone": "054-430-3549",
