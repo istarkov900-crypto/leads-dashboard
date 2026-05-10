@@ -5110,7 +5110,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=13152424711314556261",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:18"
   },
   {
     "phone": "050-307-1277",
