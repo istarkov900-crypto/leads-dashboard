@@ -23072,7 +23072,9 @@
     "photos": [],
     "hours": [],
     "maps_url": "https://maps.google.com/?cid=8211864742928189445",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:16"
   },
   {
     "phone": "09-958-9181",
