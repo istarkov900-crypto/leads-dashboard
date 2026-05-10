@@ -4795,7 +4795,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=2077579362689713430",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:28"
   },
   {
     "phone": "052-895-3910",
