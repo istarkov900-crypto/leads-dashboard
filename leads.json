@@ -14234,7 +14234,9 @@
     "photos": [],
     "hours": [],
     "maps_url": "https://maps.google.com/?cid=10237239584057651361",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:33"
   },
   {
     "phone": "072-335-5578",
