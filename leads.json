@@ -2790,7 +2790,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=9228085466886760194",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:22"
   },
   {
     "phone": "052-315-3101",
