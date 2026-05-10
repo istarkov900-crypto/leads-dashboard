@@ -18470,7 +18470,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=523878648447681607",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:20"
   },
   {
     "phone": "053-527-2739",
