@@ -12104,7 +12104,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=10497945583462813307",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:24"
   },
   {
     "phone": "052-917-2770",
