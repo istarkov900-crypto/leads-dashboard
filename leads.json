@@ -24172,7 +24172,9 @@
       "יום שבת: סגור"
     ],
     "maps_url": "https://maps.google.com/?cid=3601909672608633707",
-    "enriched": true
+    "enriched": true,
+    "wa_sent": true,
+    "wa_sent_at": "2026-05-10 15:29"
   },
   {
     "phone": "03-609-0149",
